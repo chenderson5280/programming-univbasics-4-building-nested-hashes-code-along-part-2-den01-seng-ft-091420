@@ -48,7 +48,7 @@ def add_characters
          ]
         # :additional_characters => [{},{}]
       }
-   },
+   }
 
    # Write code below that does the following programmatically:
    #
